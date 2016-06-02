@@ -1,0 +1,59 @@
+/*General Borders*/
+.border {
+	border: 1px solid lightblue;
+}
+
+.header {
+	border: 1px dotted lightgray;
+	text-align: center;
+}
+
+.available {
+	background: gray;
+	color: yellow;
+
+}
+/*IMAGES*/
+.image {
+	display:block;
+    margin:auto;
+}
+
+
+/*spaci ng*/
+.border {
+	width: 30%;
+	display: inline-block;
+	margin-right: 5px;
+
+}
+
+/*spacing to separate 1st and 4th boxes */
+.spacing {
+  margin-bottom: 10px;
+}
+/*Changes to description*/
+.description {
+	text-align: justify;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+/*changes to Specifics and Pricing*/
+.enlarge {
+	font-size: 20px;
+	padding-left: 10px;
+
+}
+
+
+/*List Changes*/
+li {
+	list-style: none;
+	font-weight: bold;
+}
+
+/*Footer Designs*/
+.footer {
+	font-size: 12px; 
+	margin-left: 5px;
+}
